@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PathLength.FrmPathLength.resources
+obj\Debug\PathLength.Properties.Resources.resources
+obj\Debug\PathLength.csproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\PathLength.FrmPathLength.resources
+obj\Release\PathLength.Properties.Resources.resources
+obj\Release\PathLength.csproj.GenerateResource.Cache
+bin\Debug\PathLength.exe
+bin\Debug\PathLength.pdb
+obj\Debug\PathLength.exe
+obj\Debug\PathLength.pdb

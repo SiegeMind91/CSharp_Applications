@@ -1,0 +1,8 @@
+bin\Debug\WordPuzzle.exe
+bin\Debug\WordPuzzle.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WordPuzzle.FrmWordPuzzle.resources
+obj\Debug\WordPuzzle.Properties.Resources.resources
+obj\Debug\WordPuzzle.csproj.GenerateResource.Cache
+obj\Debug\WordPuzzle.exe
+obj\Debug\WordPuzzle.pdb
