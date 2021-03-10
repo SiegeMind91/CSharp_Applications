@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-ArrayOfObjects\EngClass\obj\Debug\EngClass.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-ArrayOfObjects\EngClass\obj\Debug\EngClass.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-ArrayOfObjects\EngClass\bin\Debug\EngClass.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-ArrayOfObjects\EngClass\bin\Debug\EngClass.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-ArrayOfObjects\EngClass\obj\Debug\EngClass.FrmEngClass.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-ArrayOfObjects\EngClass\obj\Debug\EngClass.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-ArrayOfObjects\EngClass\obj\Debug\EngClass.csproj.GenerateResource.Cache

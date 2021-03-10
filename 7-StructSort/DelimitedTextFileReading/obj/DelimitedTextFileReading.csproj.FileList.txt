@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DelimitedTextFileReading.FrmDelimited.resources
+obj\Debug\DelimitedTextFileReading.Properties.Resources.resources
+obj\Debug\DelimitedTextFileReading.csproj.GenerateResource.Cache
+bin\Debug\DelimitedTextFileReading.exe
+bin\Debug\DelimitedTextFileReading.pdb
+obj\Debug\DelimitedTextFileReading.exe
+obj\Debug\DelimitedTextFileReading.pdb

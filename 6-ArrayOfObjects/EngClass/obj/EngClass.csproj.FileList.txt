@@ -1,0 +1,8 @@
+bin\Debug\EngClass.exe
+bin\Debug\EngClass.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EngClass.FrmEngClass.resources
+obj\Debug\EngClass.Properties.Resources.resources
+obj\Debug\EngClass.csproj.GenerateResource.Cache
+obj\Debug\EngClass.exe
+obj\Debug\EngClass.pdb

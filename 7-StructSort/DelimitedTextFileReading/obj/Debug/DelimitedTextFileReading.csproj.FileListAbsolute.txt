@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-StructSort\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-StructSort\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-StructSort\DelimitedTextFileReading\bin\Debug\DelimitedTextFileReading.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-StructSort\DelimitedTextFileReading\bin\Debug\DelimitedTextFileReading.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-StructSort\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.FrmDelimited.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-StructSort\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\7-StructSort\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.csproj.GenerateResource.Cache

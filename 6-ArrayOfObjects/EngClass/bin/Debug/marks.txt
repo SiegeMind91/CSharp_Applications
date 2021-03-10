@@ -1,0 +1,5 @@
+Mary,56
+Karen,90
+Frank,86
+Joe,98
+Sophia,77
