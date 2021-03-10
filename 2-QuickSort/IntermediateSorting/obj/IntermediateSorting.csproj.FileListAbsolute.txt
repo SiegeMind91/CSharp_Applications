@@ -1,0 +1,8 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\4-QuickSort\IntermediateSorting\obj\Debug\IntermediateSorting.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\4-QuickSort\IntermediateSorting\obj\Debug\IntermediateSorting.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\4-QuickSort\IntermediateSorting\bin\Debug\IntermediateSorting.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\4-QuickSort\IntermediateSorting\bin\Debug\IntermediateSorting.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\4-QuickSort\IntermediateSorting\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\4-QuickSort\IntermediateSorting\obj\Debug\IntermediateSorting.FrmIntermediateSorting.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\4-QuickSort\IntermediateSorting\obj\Debug\IntermediateSorting.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\4-QuickSort\IntermediateSorting\obj\Debug\IntermediateSorting.csproj.GenerateResource.Cache

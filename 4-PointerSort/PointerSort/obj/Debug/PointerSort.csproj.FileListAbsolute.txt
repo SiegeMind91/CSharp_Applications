@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\5-PointerSort\PointerSort\obj\Debug\PointerSort.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\5-PointerSort\PointerSort\obj\Debug\PointerSort.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\5-PointerSort\PointerSort\bin\Debug\PointerSort.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\5-PointerSort\PointerSort\bin\Debug\PointerSort.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\5-PointerSort\PointerSort\obj\Debug\PointerSort.FrmPointerSort.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\5-PointerSort\PointerSort\obj\Debug\PointerSort.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\5-PointerSort\PointerSort\obj\Debug\PointerSort.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PointerSort.FrmPointerSort.resources
+obj\Debug\PointerSort.Properties.Resources.resources
+obj\Debug\PointerSort.csproj.GenerateResource.Cache
+bin\Debug\PointerSort.exe
+bin\Debug\PointerSort.pdb
+obj\Debug\PointerSort.exe
+obj\Debug\PointerSort.pdb

@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\5-PointerSort\PointerSort\obj\Debug\PointerSort.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\5-PointerSort\PointerSort\obj\Debug\PointerSort.pdb
