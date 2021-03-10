@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GCD.FrmGCD.resources
+obj\Debug\GCD.Properties.Resources.resources
+obj\Debug\GCD.csproj.GenerateResource.Cache
+bin\Debug\GCD.exe
+bin\Debug\GCD.pdb
+obj\Debug\GCD.exe
+obj\Debug\GCD.pdb

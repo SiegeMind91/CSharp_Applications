@@ -1,0 +1,8 @@
+bin\Debug\Factorials.exe
+bin\Debug\Factorials.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Factorials.FrmFactorials.resources
+obj\Debug\Factorials.Properties.Resources.resources
+obj\Debug\Factorials.csproj.GenerateResource.Cache
+obj\Debug\Factorials.exe
+obj\Debug\Factorials.pdb

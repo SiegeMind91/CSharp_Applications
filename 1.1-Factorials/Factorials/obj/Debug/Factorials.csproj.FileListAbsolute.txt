@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\1-Factorials\Factorials\obj\Debug\Factorials.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\1-Factorials\Factorials\obj\Debug\Factorials.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\1-Factorials\Factorials\bin\Debug\Factorials.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\1-Factorials\Factorials\bin\Debug\Factorials.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\1-Factorials\Factorials\obj\Debug\Factorials.FrmFactorials.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\1-Factorials\Factorials\obj\Debug\Factorials.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\1-Factorials\Factorials\obj\Debug\Factorials.csproj.GenerateResource.Cache
