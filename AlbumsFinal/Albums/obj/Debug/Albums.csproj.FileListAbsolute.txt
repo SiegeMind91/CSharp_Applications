@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AlbumsFinal\Albums\obj\Debug\Albums.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AlbumsFinal\Albums\obj\Debug\Albums.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AlbumsFinal\Albums\bin\Debug\Albums.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AlbumsFinal\Albums\bin\Debug\Albums.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AlbumsFinal\Albums\obj\Debug\Albums.FrmAlbums.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AlbumsFinal\Albums\obj\Debug\Albums.FrmDataEntry.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AlbumsFinal\Albums\obj\Debug\Albums.FrmStatus.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AlbumsFinal\Albums\obj\Debug\Albums.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AlbumsFinal\Albums\obj\Debug\Albums.csproj.GenerateResource.Cache
