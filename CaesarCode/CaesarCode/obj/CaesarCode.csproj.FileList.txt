@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CaesarCode.FrmCaesarCode.resources
+obj\Debug\CaesarCode.Properties.Resources.resources
+obj\Debug\CaesarCode.csproj.GenerateResource.Cache
+bin\Debug\CaesarCode.exe
+bin\Debug\CaesarCode.pdb
+obj\Debug\CaesarCode.exe
+obj\Debug\CaesarCode.pdb
