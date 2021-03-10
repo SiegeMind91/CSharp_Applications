@@ -1,0 +1,7 @@
+bin\Debug\DisplayPictures.exe
+bin\Debug\DisplayPictures.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DisplayPictures.Form1.resources
+obj\Debug\DisplayPictures.csproj.GenerateResource.Cache
+obj\Debug\DisplayPictures.exe
+obj\Debug\DisplayPictures.pdb

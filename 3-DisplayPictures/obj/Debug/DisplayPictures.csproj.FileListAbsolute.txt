@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\2-DisplayPictures\obj\Debug\DisplayPictures.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\2-DisplayPictures\obj\Debug\DisplayPictures.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\2-DisplayPictures\bin\Debug\DisplayPictures.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\2-DisplayPictures\bin\Debug\DisplayPictures.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\2-DisplayPictures\obj\Debug\DisplayPictures.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\2-DisplayPictures\obj\Debug\DisplayPictures.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\3-DisplayPictures\obj\Debug\DisplayPictures.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\3-DisplayPictures\obj\Debug\DisplayPictures.pdb
