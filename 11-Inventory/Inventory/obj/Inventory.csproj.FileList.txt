@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Inventory.FrmDataEntry.resources
+obj\Debug\Inventory.FrmDisplay.resources
+obj\Debug\Inventory.FrmInventory.resources
+obj\Debug\Inventory.Properties.Resources.resources
+obj\Debug\Inventory.csproj.GenerateResource.Cache
+bin\Debug\Inventory.exe
+bin\Debug\Inventory.pdb
+obj\Debug\Inventory.exe
+obj\Debug\Inventory.pdb

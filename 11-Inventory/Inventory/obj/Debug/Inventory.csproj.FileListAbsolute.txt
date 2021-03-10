@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\3-Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\3-Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\3-Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\3-Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\3-Inventory\Inventory\obj\Debug\Inventory.FrmDataEntry.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\3-Inventory\Inventory\obj\Debug\Inventory.FrmDisplay.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\3-Inventory\Inventory\obj\Debug\Inventory.FrmInventory.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\3-Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\3-Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
