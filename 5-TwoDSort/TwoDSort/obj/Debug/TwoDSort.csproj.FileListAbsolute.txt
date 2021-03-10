@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\6-TwoDSort\TwoDSort\obj\Debug\TwoDSort.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\6-TwoDSort\TwoDSort\obj\Debug\TwoDSort.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\6-TwoDSort\TwoDSort\bin\Debug\TwoDSort.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\6-TwoDSort\TwoDSort\bin\Debug\TwoDSort.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\6-TwoDSort\TwoDSort\obj\Debug\TwoDSort.FrmTwoDSort.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\6-TwoDSort\TwoDSort\obj\Debug\TwoDSort.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\1-Sorting\6-TwoDSort\TwoDSort\obj\Debug\TwoDSort.csproj.GenerateResource.Cache

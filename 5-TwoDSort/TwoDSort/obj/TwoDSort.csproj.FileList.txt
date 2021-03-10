@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TwoDSort.FrmTwoDSort.resources
+obj\Debug\TwoDSort.Properties.Resources.resources
+obj\Debug\TwoDSort.csproj.GenerateResource.Cache
+bin\Debug\TwoDSort.exe
+bin\Debug\TwoDSort.pdb
+obj\Debug\TwoDSort.exe
+obj\Debug\TwoDSort.pdb
