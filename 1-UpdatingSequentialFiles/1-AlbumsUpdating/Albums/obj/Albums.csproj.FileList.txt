@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Albums.FrmAlbums.resources
+obj\Debug\Albums.Properties.Resources.resources
+obj\Debug\Albums.csproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Albums.FrmAlbums.resources
+obj\Release\Albums.Properties.Resources.resources
+obj\Release\Albums.csproj.GenerateResource.Cache
+bin\Debug\Albums.exe
+bin\Debug\Albums.pdb
+obj\Debug\Albums.exe
+obj\Debug\Albums.pdb
+obj\Debug\Albums.FrmStatus.resources
+obj\Debug\Albums.FrmDataEntry.resources

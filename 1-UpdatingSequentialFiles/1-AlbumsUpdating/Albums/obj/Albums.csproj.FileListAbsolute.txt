@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\1-UpdatingSequentialFiles\1-AlbumsUpdating\Albums\obj\Debug\Albums.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\1-UpdatingSequentialFiles\1-AlbumsUpdating\Albums\obj\Debug\Albums.pdb
