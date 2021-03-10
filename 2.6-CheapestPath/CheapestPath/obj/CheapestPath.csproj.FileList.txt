@@ -1,0 +1,8 @@
+obj\Debug\CheapestPath.exe
+obj\Debug\CheapestPath.pdb
+bin\Debug\CheapestPath.exe
+bin\Debug\CheapestPath.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CheapestPath.Properties.Resources.resources
+obj\Debug\CheapestPath.csproj.GenerateResource.Cache
+obj\Debug\CheapestPath.FrmCheapest.resources

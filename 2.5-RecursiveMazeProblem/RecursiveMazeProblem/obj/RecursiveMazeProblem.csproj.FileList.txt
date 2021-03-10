@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RecursiveMazeProblem.FrmRecursiveMaze.resources
+obj\Debug\RecursiveMazeProblem.Properties.Resources.resources
+obj\Debug\RecursiveMazeProblem.csproj.GenerateResource.Cache
+bin\Debug\RecursiveMazeProblem.exe
+bin\Debug\RecursiveMazeProblem.pdb
+obj\Debug\RecursiveMazeProblem.exe
+obj\Debug\RecursiveMazeProblem.pdb

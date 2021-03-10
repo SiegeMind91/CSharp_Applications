@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\8-Recursion\2-NonLinearRecursion\8-CheapestPath\CheapestPath\obj\Debug\CheapestPath.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\8-Recursion\2-NonLinearRecursion\8-CheapestPath\CheapestPath\obj\Debug\CheapestPath.pdb
