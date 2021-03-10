@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\6-Casino\Casino\obj\Debug\Casino.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\6-Casino\Casino\bin\Debug\Casino.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\6-Casino\Casino\bin\Debug\Casino.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\6-Casino\Casino\obj\Debug\Casino.Casino.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\6-Casino\Casino\obj\Debug\Casino.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\6-Casino\Casino\obj\Debug\Casino.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\6-Casino\Casino\obj\Debug\Casino.exe

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Casino.Casino.resources
+obj\Debug\Casino.Properties.Resources.resources
+obj\Debug\Casino.csproj.GenerateResource.Cache
+bin\Debug\Casino.exe
+bin\Debug\Casino.pdb
+obj\Debug\Casino.exe
+obj\Debug\Casino.pdb
