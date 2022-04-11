@@ -13,7 +13,7 @@ namespace Chess
             //No two queens can be on the same row 
             var countZeroes = Board.Count(n => n == 0);
             var countDistinct = Board.Distinct().Count();
-            //It's a little complex, but we're saying here if countZeroes is greater than one then return countZeroes-1, else return 0
+            //The ternary operation is saying if countZeroes is greater than one then return countZeroes-1, else return 0
             if (Board.Length != countDistinct + (countZeroes > 1 ? countZeroes-1 : 0)) 
             {
                 return false;
